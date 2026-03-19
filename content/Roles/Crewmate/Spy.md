@@ -1,0 +1,1 @@
+The Spy appears as an Imposter to other Imposters but cannot kill.

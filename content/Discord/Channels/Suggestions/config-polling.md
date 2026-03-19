@@ -1,0 +1,2 @@
+The Config polling is for polling about new configuration options or changing the current configuration options.
+Things that can be changed are stuff like the roles that are in the game and their percentage and the configurations about the roles and tasks and stuff.

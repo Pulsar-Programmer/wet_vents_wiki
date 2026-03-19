@@ -1,0 +1,5 @@
+The Swapper is a Crewmate role that allows the ability to [[Swap]] the votes of people by the end of the day.
+The Swapper gains one "swap" every time they complete a task. A swapper cannot use swap unless they have completed at least one task.
+
+**Config**
+`have_swaps: bool = true`: Whether to gatekeep swapping behind tasks. 

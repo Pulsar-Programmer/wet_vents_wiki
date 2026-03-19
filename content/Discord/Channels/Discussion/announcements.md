@@ -1,0 +1,1 @@
+This is for announcements about the project. Only moderators may speak in here.

@@ -1,0 +1,1 @@
+This is a cosmetic role signifying that the player has previously been a part of one of Mason's projects including but not limited to the modded Minecraft server PZ.

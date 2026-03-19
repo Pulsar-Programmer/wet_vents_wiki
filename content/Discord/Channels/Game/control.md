@@ -1,0 +1,1 @@
+The control channel is for announcements about the game and nobody except moderators and [[SussyBot]] may speak in it.

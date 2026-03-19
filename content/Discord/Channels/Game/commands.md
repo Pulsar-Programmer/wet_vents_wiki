@@ -1,0 +1,1 @@
+The commands channel is for people to put in their personal commands to SussyBot and receive actions. Note that for most commands only you can see the result. 

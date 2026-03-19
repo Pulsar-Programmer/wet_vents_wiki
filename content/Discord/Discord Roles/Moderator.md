@@ -1,0 +1,1 @@
+This is a special role for Moderators - they can see everything, even private threads which is why this is reserved only for the bot.

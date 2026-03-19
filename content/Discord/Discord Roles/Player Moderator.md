@@ -1,0 +1,1 @@
+A player moderator has all the same abilities as a Moderator, except it cannot see private threads. In addition to that, it cannot see ghost chat.

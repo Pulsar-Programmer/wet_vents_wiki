@@ -1,0 +1,1 @@
+Ghosts is a place where only ghosts can talk about the current game and any events that are happening.

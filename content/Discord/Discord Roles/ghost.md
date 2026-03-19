@@ -1,0 +1,1 @@
+Ghosts are a marker role assigned by [[SussyBot]] to mark a player that is dead. Ghosts may speak in the special [[ghosts]] channel.

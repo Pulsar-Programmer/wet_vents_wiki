@@ -1,0 +1,1 @@
+Ideas is a creative space for anyone to make a post (it is a Forum channel) and get suggestions on whether it should be added or not. New roles can be added via voting in [[law-polling]].

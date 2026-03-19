@@ -1,0 +1,1 @@
+This channel is for polling about new laws to change the core features of this wiki and this game.

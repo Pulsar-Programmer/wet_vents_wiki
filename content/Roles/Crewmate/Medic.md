@@ -1,0 +1,1 @@
+The Medic is given a token to shield a target from an attack. The shield applies for the rest of the game. If the Medic dies, the shield disappears with them.

@@ -1,0 +1,1 @@
+Players are a marker role to signify that the person is in an active game.

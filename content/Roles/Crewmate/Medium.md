@@ -1,0 +1,2 @@
+The Medium is a Crewmate that can speak to the dead. Using the [[Ask]] command, it can ask a question to ghosts by picking from a list of acceptable questions.
+Like the [[Swapper]], the medium has an amount of "asks" that it gains after completing each task which is tracked via the bot responding after completing a task.

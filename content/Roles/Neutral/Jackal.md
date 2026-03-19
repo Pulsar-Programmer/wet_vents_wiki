@@ -1,0 +1,1 @@
+The Jackal is an independent killing role and can only win alone. It's goal is to kill everyone but works independently of the Imposters. If this sounds weird, note that neutral killers and even imposters can kill imposters, because of the Spy.

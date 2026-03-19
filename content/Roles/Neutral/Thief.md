@@ -1,0 +1,1 @@
+The Thief is the same as the [[Sheriff]] except if you kill target, you become that role, otherwise you die.

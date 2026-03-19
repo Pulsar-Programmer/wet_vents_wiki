@@ -1,0 +1,1 @@
+As a powerful counter to the [[Eraser]] and essential to work with the [[Sheriff]], the Deputy can handcuff certain players preventing them from using their ability using the local Interaction [[Tokens]].

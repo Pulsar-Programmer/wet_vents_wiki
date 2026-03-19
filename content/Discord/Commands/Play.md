@@ -1,0 +1,2 @@
+`play`
+Allows you entry to start playing the game and be considered for rounds. It is essentially a "ready up" but if you are not readied you cannot play. Make sure you are in before [[Start]] is called!

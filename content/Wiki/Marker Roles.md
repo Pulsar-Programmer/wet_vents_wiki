@@ -1,0 +1,1 @@
+Marker roles are roles that are used by [[SussyBot]] to store information about the state of the player. It is necessary in order to direct discord about which players of which state are allowed in which channel. Marker roles can be seen by anybody and are frequent to change and are signified by the all lowercase/snakecase name.
