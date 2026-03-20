@@ -1,7 +1,7 @@
 Welcome to the Wet Vents wiki!
 
 Wet Vents is a new Water Works/Senior Assassins idea with a fusion in Among Us.
-It is a school-based game rather than water wars which is an outside-of-school based game. This makes it plenty safer, plenty more fun with tons more interaction, and 
+It is a school-based game rather than water wars which is an outside-of-school based game. This makes it plenty safer, plenty more fun with tons more interaction, and flexible.
 
 To learn about the game, see [[Game Control Flow]].
 To learn about the Discord and how it works, see DISCORD.
