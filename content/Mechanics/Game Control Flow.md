@@ -31,5 +31,3 @@ To learn more, please read MECHANICS and ROLES so that you can understand how ce
 There are only TWO RULES:
 - Don't exchange codes if you haven't interacted with a player.
 - If you are dead, don't expose anything.
-# Config
-`game_duration: u8 = 5`: Duration of the game in days.

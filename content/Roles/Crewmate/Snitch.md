@@ -8,6 +8,3 @@ After reaching stage 2, typically after 4 tasks, the Snitch is given a list of p
 
 Stage 3: Final Task
 After reaching the final stage by completing the final task, you are given the amount of letters in the username of an imposter. However, you are also revealed to the imposters that you are the Snitch.
-
-**Config**
-`list_size: u8 = 3`: The size of the list of people given.
