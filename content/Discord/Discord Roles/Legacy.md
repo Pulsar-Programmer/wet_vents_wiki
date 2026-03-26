@@ -1,0 +1,1 @@
+To earn this role, you must report a new bug and have played the game before.

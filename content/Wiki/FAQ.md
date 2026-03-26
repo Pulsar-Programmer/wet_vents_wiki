@@ -24,3 +24,7 @@ If the imposter killed illegally without showing the target the code or reportin
 
 # As a moderator playing the game, can you see ghost chat?
 Yes, unfortunately, it is true I can see ghost chat. If you have something private to say, you can use the [[Msg]] command through the bot then specify the Role ghost to send it only to ghosts, but I promise I will not check ghost chat at all when alive.
+
+
+# Will you have an advantage on the Tasks since you made them?
+Nope! Actually, I simply fed images into an AI model and it gave me a bunch of questions. I copied and pasted the JSON into the code. It is always editable if there is a mistake, but let's just say this is a duty for all of us to determine if these tasks are even possible to do LOL.
