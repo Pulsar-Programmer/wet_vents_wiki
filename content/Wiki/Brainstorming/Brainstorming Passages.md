@@ -75,3 +75,7 @@ Vampire
 - Can infect someone and make them and impostor idk maybe keep this neutral role idk
 and make crewmate role that can make imposters to task, maybe taskmaster or engineer?
 I'm not really for roles turning into other roles, prob neutral
+
+
+# Lawyer
+- [x] what about pursuer and what happens when their client dies / their client cannot win? -  just do nothing if their client cannot win then they cannot wjn
